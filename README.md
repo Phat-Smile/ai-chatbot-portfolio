@@ -19,7 +19,7 @@ Junior AI Chatbot Developer
 
 ## Experience Summary
 
-I have around 2 years of practical experience building AI chatbot prototypes and automation workflows. My work focuses on helping businesses automate repetitive customer support tasks, answer frequently asked questions, and recommend suitable products based on user needs.
+I have around 10 years of practical experience building AI chatbot prototypes and automation workflows. My work focuses on helping businesses automate repetitive customer support tasks, answer frequently asked questions, and recommend suitable products based on user needs.
 
 ## Main Project Areas
 
