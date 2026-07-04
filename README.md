@@ -12,7 +12,7 @@ The purpose of this portfolio is to present clear evidence of chatbot-focused sk
 |---|---|
 | Name | Phan Tien Phat |
 | Role | Junior AI Chatbot Developer |
-| Experience | Around 2 years |
+| Experience | Around 3 years |
 | Main Focus | AI Chatbot, FAQ Automation, Customer Support Assistant, Product Recommendation Assistant |
 | Core Skills | Python, NLP, OpenAI API, Prompt Engineering, Chatbot Flow Design, Business Automation |
 
